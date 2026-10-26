@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Mahmood Alam 👋
 
-<!--
-**mahmood-alam-dev/mahmood-alam-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MERN Full Stack Developer** | BCA Graduate | Open to Work
 
-Here are some ideas to get you started:
+I build full-stack web apps with the MERN stack and enjoy solving problems with Java & DSA. Currently looking for Software Developer roles and internships.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Frontend:** HTML, CSS, JavaScript, React.js, Bootstrap
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB, SQL
+- **Languages:** JavaScript, Java
+- **Tools:** Git, GitHub, Hoppscotch, Render
+
+## 🚀 Featured Project
+**[Wanderlust](https://github.com/Mak758/Major_Project)**: Airbnb-style full-stack app with authentication, reviews, maps and image uploads.
+🔗 [Live Demo](https://major-project-5tkc.onrender.com)
+
+## 📫 Connect with me
+[LinkedIn](https://www.linkedin.com/in/mahmood-alam-dev)
+alam.mahmood.tech@gmail.com
